@@ -93,3 +93,31 @@ p{
 .carousel-item{
     padding:7% 15%;
 }
+
+/* Pricing section */
+#pricing{
+    padding:100px;
+    text-align:center;
+}
+.pricing-table{
+    padding:3% 5%;
+}
+
+/* Call to Action */
+#cta{
+    background-color: #ff4c68;
+    text-align:center;
+    padding:7% 18%;
+}
+.ctaa{
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+#footer{
+    padding:7% 15%;
+    text-align: center;
+}
+.social-media-icon{
+    margin:20px 10px;
+}
