@@ -14,6 +14,12 @@ h1{
     line-height: 1.5;
     width: 65%;
 }
+h3{
+    font-family: Montserrat;
+}
+p{
+    color:#8f8f8f
+}
 /*Nav bar*/
 .navbar{
     padding-top: 2.5rem;
@@ -31,4 +37,28 @@ h1{
     font-family: Ubuntu;
     font-size: 2rem;
     font-weight: bold;
+}
+.download-button{
+    margin:5% 3% 5% 0;
+}
+.title-image{
+    width:40%;
+    transform: rotate(25deg);
+}
+
+/* Features section */
+
+#features{
+    padding:7% 11%;
+}
+.feature-box{
+    text-align: center;
+    padding:5%;
+}
+.icon{
+    color:#ef8172;
+    margin:1rem;
+}
+.icon:hover{
+    color:#ff4c68
 }
