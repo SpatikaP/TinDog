@@ -49,7 +49,7 @@ p{
 }
 .title-image{
     width:15%;
-    transform: rotate(25deg);
+    transform: rotate(0);
     position: absolute;
 }
 
